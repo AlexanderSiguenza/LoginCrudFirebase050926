@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Cambiar el parent a Theme.AppCompat.Light.DarkActionBar -->
+<style name="Theme.CrudFirebase050926" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Colores primarios de tu app -->
+</style>
+</resources>
